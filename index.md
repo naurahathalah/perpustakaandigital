@@ -2,8 +2,6 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-
-## Koleksi
 1. [How To Win Friends and Influence People](ebook/How%20To%20Win%20Friends%20and%20Influence%20People%20(Dale%20Carnegie)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf) — Dale Carnegie
 2. [How to Stop Worrying and Start Living](ebook/How%20to%20Stop%20Worrying%20and%20Start%20Living%20(Dale%20Carnegie)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf) — Dale Carnegie
 3. [Jangan Membuat Masalah Kecil Jadi Masalah Besar](ebook/Jangan%20Membuat%20Masalah%20Kecil%20Jadi%20Masalah%20Besar%20Cara%20Mudah%20Mencegah%20Masalah%20Kecil%20Mengganggu%20Hidup%20Kita%20(Richard%20Carlson)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf) — Richard Carlson
