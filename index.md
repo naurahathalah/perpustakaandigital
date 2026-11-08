@@ -2,8 +2,8 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. ChatGPT Research: A Bibliometric Analysis Based on the Web of Science from 2023 to June 2024
-2. How To Win Friends and Influence People (Dale Carnegie) (z-library.sk, 1lib.sk, z-lib.sk)
+1. ChatGPT Research: A Bibliometric Analysis Based on the Web of Science from 2023 to June 2024 - M Koo
+2. How To Win Friends and Influence People - Dale Carnegie
 3. Jangan Membuat Masalah Kecil Jadi Masalah Besar Cara Mudah Mencegah Masalah Kecil Mengganggu Hidup Kita (Richard Carlson) (z-library.sk, 1lib.sk, z-lib.sk)
 4. Normal People (Sally Rooney) (z-library.sk, 1lib.sk, z-lib.sk)
 5. Pasta Kacang Merah ( An (Sweet Bean Paste)) (Durian Sukegawa) (z-library.sk, 1lib.sk, z-lib.sk)
