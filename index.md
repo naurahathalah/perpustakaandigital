@@ -16,6 +16,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 ---
 *Powered by GitHub Pages*
 
-*Naurah Athalah Syahada*
-
-*13040124120005*
+*Naurah Athalah Syahada (13040124120005)*
