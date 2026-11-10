@@ -16,5 +16,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 ---
 *Powered by GitHub Pages*
 
-Nama  : Naurah Athalah Syahada
-NIM   : 13040124120005
+*Nama  : Naurah Athalah Syahada*
+*NIM   : 13040124120005*
