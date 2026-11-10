@@ -15,5 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Ringkasan Pemaparan UGC](ebook/Rangkuman%20UGC.pdf)
 ---
 *Powered by GitHub Pages*
+
 *Naurah Athalah Syahada*
+
 *13040124120005*
